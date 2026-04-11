@@ -995,3 +995,16 @@
 [23:12:09] [WARNING] No targets selected.
 [23:12:09] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
 [23:12:09] [WARNING] No targets selected.
+[13:03:09] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[13:03:10] [WARNING] No targets selected.
+[13:03:10] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[13:03:10] [WARNING] No targets selected.
+[13:03:10] [LOG] Effect Attack applied to target Guará by source Guará.
+[13:03:10] [WARNING] No targets selected.
+[13:03:10] [LOG] Effect Attack applied to target Guará by source Guará.
+[13:03:12] [LOG] Effect Block applied to target Fragata by source Carta de Bloqueio.
+[13:03:13] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[13:03:13] [WARNING] No targets selected.
+[13:03:13] [LOG] Effect Attack applied to target Guará by source Guará.
+[13:03:13] [WARNING] No targets selected.
+[13:03:13] [LOG] Effect Attack applied to target Guará by source Guará.
