@@ -1894,38 +1894,1508 @@ Your script should either check if it is null or you should not destroy the obje
 [09:50:07] [WARNING] No targets selected.
 [09:50:10] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
 [09:50:10] [WARNING] No targets selected.
-[09:58:53] [WARNING] Owner of card Habitat Deserto is null when trying to mark card as dirty.
-[09:58:54] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
-[09:58:54] [LOG] Effect Cost applied to target Gaivotão by source Habitat Deserto.
-[09:58:54] [LOG] Effect Cost applied to target Guará by source Habitat Deserto.
-[09:58:54] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
-[09:58:54] [LOG] Effect Armor applied to target Carcará by source Carcará.
-[09:58:54] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
-[09:58:54] [LOG] Effect Armor applied to target Soldadinho-do-Araripe by source Carcará.
-[09:58:54] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
-[09:58:54] [WARNING] No targets selected.
-[09:58:54] [WARNING] No targets selected.
-[09:58:56] [LOG] Effect Heal applied to target Guará by source Carta de Cura.
-[09:58:56] [WARNING] Invalid action: Not enough action points to perform the action.
-[09:58:56] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
-[09:58:56] [WARNING] No targets selected.
-[09:58:56] [WARNING] No targets selected.
-[09:59:03] [WARNING] No targets selected.
-[09:59:03] [WARNING] No targets selected.
-[09:59:05] [WARNING] Invalid action: Not enough action points to perform the action.
-[09:59:05] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
-[09:59:05] [WARNING] No targets selected.
-[09:59:05] [WARNING] No targets selected.
-[09:59:08] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
-[09:59:08] [WARNING] No targets selected.
-[09:59:08] [WARNING] No targets selected.
-[09:59:10] [WARNING] Invalid action: Not enough action points to perform the action.
-[09:59:10] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
-[09:59:10] [WARNING] No targets selected.
-[09:59:10] [WARNING] No targets selected.
-[09:59:20] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
-[09:59:20] [WARNING] No targets selected.
-[09:59:20] [WARNING] No targets selected.
-[09:59:22] [WARNING] Invalid action: Not enough action points to perform the action.
-[09:59:22] [WARNING] No targets selected.
-[09:59:22] [WARNING] No targets selected.
+[02:04:17] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[02:04:18] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[02:04:18] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[02:04:18] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[02:04:18] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:04:18] [LOG] Effect Attack applied to target Sabiá-Laranjeira by source Sabiá-Laranjeira.
+[02:04:18] [LOG] Effect Attack applied to target Curicaca by source Sabiá-Laranjeira.
+[02:04:18] [LOG] Effect Attack applied to target Bem-te-vi by source Sabiá-Laranjeira.
+[02:04:18] [LOG] Effect Armor applied to target Sabiá-Laranjeira by source Curicaca.
+[02:04:18] [LOG] Effect Armor applied to target Curicaca by source Curicaca.
+[02:04:18] [LOG] Effect Armor applied to target Bem-te-vi by source Curicaca.
+[02:04:18] [WARNING] No targets selected.
+[02:04:18] [WARNING] No targets selected.
+[02:04:40] [LOG] Effect Attack applied to target Fragata by source Bem-te-vi.
+[02:04:40] [LOG] Effect Attack applied to target Gaivotão by source Bem-te-vi.
+[02:04:40] [LOG] Effect Attack applied to target Guará by source Bem-te-vi.
+[02:04:40] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:04:40] [WARNING] No targets selected.
+[02:04:40] [WARNING] No targets selected.
+[02:04:41] [WARNING] No targets selected.
+[02:04:41] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[02:04:41] [LOG] Effect Spike applied to target Sabiá-Laranjeira by source Fragata.
+[02:04:41] [LOG] Effect Spike applied to target Curicaca by source Fragata.
+[02:04:41] [LOG] Effect Spike applied to target Bem-te-vi by source Fragata.
+[02:04:42] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:04:42] [WARNING] No targets selected.
+[02:04:42] [WARNING] No targets selected.
+[02:04:45] [WARNING] No targets selected.
+[02:04:45] [WARNING] No targets selected.
+[02:04:48] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:04:48] [WARNING] No targets selected.
+[02:04:48] [WARNING] No targets selected.
+[02:04:52] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:04:52] [WARNING] No targets selected.
+[02:04:52] [WARNING] No targets selected.
+[02:04:54] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:04:54] [WARNING] No targets selected.
+[02:04:54] [WARNING] No targets selected.
+[02:04:57] [LOG] Bird Fragata (ID: 1001) has died.
+[02:04:58] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:04:58] [WARNING] No targets selected.
+[02:04:58] [WARNING] No targets selected.
+[02:05:00] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:05:00] [WARNING] No targets selected.
+[02:05:00] [WARNING] No targets selected.
+[02:05:05] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:05:05] [WARNING] No targets selected.
+[02:05:05] [WARNING] No targets selected.
+[02:05:07] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:05:07] [WARNING] No targets selected.
+[02:05:07] [WARNING] No targets selected.
+[02:05:09] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:05:09] [WARNING] No targets selected.
+[02:05:09] [WARNING] No targets selected.
+[02:05:12] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:05:12] [WARNING] No targets selected.
+[02:05:12] [WARNING] No targets selected.
+[02:05:14] [LOG] Bird Guará (ID: 1003) has died.
+[02:05:14] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:05:14] [WARNING] No targets selected.
+[02:05:17] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:05:17] [WARNING] No targets selected.
+[02:05:17] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:05:17] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:05:17] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:05:17] [WARNING] No targets selected.
+[02:05:19] [WARNING] No targets selected.
+[02:05:21] [WARNING] No targets selected.
+[02:05:21] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:05:21] [WARNING] No targets selected.
+[02:05:24] [WARNING] No targets selected.
+[02:08:35] [WARNING] Owner of card Habitat Pântano is null when trying to mark card as dirty.
+[02:08:36] [LOG] Effect Heal applied to target Martim-Pescador-Grande by source Habitat Pântano.
+[02:08:36] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:08:36] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:36] [LOG] Effect Armor applied to target Martim-Pescador-Grande by source Curicaca.
+[02:08:36] [LOG] Effect Armor applied to target Curicaca by source Curicaca.
+[02:08:36] [LOG] Effect Armor applied to target Fragata by source Curicaca.
+[02:08:36] [WARNING] No targets selected.
+[02:08:36] [WARNING] No targets selected.
+[02:08:38] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:08:38] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:38] [WARNING] No targets selected.
+[02:08:38] [WARNING] No targets selected.
+[02:08:40] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[02:08:40] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[02:08:40] [LOG] Effect Spike applied to target Guará by source Fragata.
+[02:08:40] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:40] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:08:40] [WARNING] No targets selected.
+[02:08:40] [WARNING] No targets selected.
+[02:08:43] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:08:43] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:43] [WARNING] No targets selected.
+[02:08:43] [WARNING] No targets selected.
+[02:08:45] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[02:08:45] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[02:08:45] [LOG] Effect Spike applied to target Guará by source Fragata.
+[02:08:45] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:45] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:08:45] [WARNING] No targets selected.
+[02:08:45] [WARNING] No targets selected.
+[02:08:48] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:08:48] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:48] [WARNING] No targets selected.
+[02:08:48] [WARNING] No targets selected.
+[02:08:51] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:51] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:08:51] [WARNING] No targets selected.
+[02:08:51] [WARNING] No targets selected.
+[02:08:52] [LOG] Effect Spike applied to target Martim-Pescador-Grande by source Fragata.
+[02:08:52] [LOG] Effect Spike applied to target Curicaca by source Fragata.
+[02:08:52] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[02:08:52] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:08:52] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:52] [WARNING] No targets selected.
+[02:08:52] [WARNING] No targets selected.
+[02:08:55] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:55] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:08:55] [WARNING] No targets selected.
+[02:08:55] [WARNING] No targets selected.
+[02:08:58] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:08:58] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:08:58] [WARNING] No targets selected.
+[02:08:58] [WARNING] No targets selected.
+[02:08:59] [LOG] Bird Fragata (ID: 1001) has died.
+[02:09:00] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:00] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:09:00] [WARNING] No targets selected.
+[02:09:00] [WARNING] No targets selected.
+[02:09:02] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:09:02] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:02] [WARNING] No targets selected.
+[02:09:02] [WARNING] No targets selected.
+[02:09:05] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:05] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:09:05] [WARNING] No targets selected.
+[02:09:05] [WARNING] No targets selected.
+[02:09:08] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:09:08] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:08] [WARNING] No targets selected.
+[02:09:08] [WARNING] No targets selected.
+[02:09:13] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:13] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:09:13] [WARNING] No targets selected.
+[02:09:13] [WARNING] No targets selected.
+[02:09:15] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:09:15] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:15] [WARNING] No targets selected.
+[02:09:15] [WARNING] No targets selected.
+[02:09:19] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:19] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:09:19] [WARNING] No targets selected.
+[02:09:19] [WARNING] No targets selected.
+[02:09:21] [LOG] Bird Curicaca (ID: 1027) has died.
+[02:09:21] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:09:21] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:21] [WARNING] No targets selected.
+[02:09:21] [WARNING] No targets selected.
+[02:09:23] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[02:09:23] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[02:09:23] [WARNING] No targets selected.
+[02:09:23] [WARNING] No targets selected.
+[02:09:25] [LOG] Bird Garça-Moura (ID: 1018) has died.
+[05:46:09] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[05:46:10] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[05:46:10] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[05:46:10] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[05:46:10] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[05:46:10] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[05:46:10] [WARNING] No targets selected.
+[05:46:10] [WARNING] No targets selected.
+[05:46:16] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[05:46:16] [WARNING] No targets selected.
+[05:46:16] [WARNING] No targets selected.
+[05:46:17] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[05:46:17] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[05:46:17] [WARNING] No targets selected.
+[05:46:17] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[05:46:17] [WARNING] No targets selected.
+[05:46:17] [WARNING] No targets selected.
+[05:46:21] [WARNING] No targets selected.
+[05:46:21] [WARNING] No targets selected.
+[05:46:23] [LOG] Effect Heal applied to target Gaivotão by source Carta de Cura.
+[05:46:23] [WARNING] No targets selected.
+[05:46:24] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[05:46:24] [WARNING] No targets selected.
+[05:46:24] [WARNING] No targets selected.
+[05:46:28] [LOG] Bird Fragata (ID: 1001) has died.
+[05:46:28] [WARNING] No targets selected.
+[05:46:28] [WARNING] No targets selected.
+[05:46:30] [WARNING] No targets selected.
+[05:46:30] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[05:46:30] [WARNING] No targets selected.
+[05:46:30] [WARNING] No targets selected.
+[06:00:17] [WARNING] Owner of card Habitat Pântano is null when trying to mark card as dirty.
+[06:00:19] [WARNING] No targets selected.
+[06:00:19] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:00:19] [WARNING] No targets selected.
+[06:00:19] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:00:19] [WARNING] No targets selected.
+[06:00:19] [WARNING] No targets selected.
+[06:00:20] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:00:20] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:00:20] [WARNING] No targets selected.
+[06:00:20] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:00:20] [WARNING] No targets selected.
+[06:00:20] [WARNING] No targets selected.
+[06:00:20] [WARNING] No targets selected.
+[06:00:31] [WARNING] No targets selected.
+[06:00:31] [WARNING] No targets selected.
+[06:00:31] [WARNING] No targets selected.
+[06:00:33] [WARNING] No targets selected.
+[06:00:33] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:00:33] [WARNING] No targets selected.
+[06:00:33] [WARNING] No targets selected.
+[06:00:33] [WARNING] No targets selected.
+[06:02:11] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[06:02:12] [WARNING] No targets selected.
+[06:02:12] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:02:12] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:02:12] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:02:12] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:02:12] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:02:12] [WARNING] No targets selected.
+[06:02:12] [WARNING] No targets selected.
+[06:02:19] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:02:19] [WARNING] No targets selected.
+[06:02:19] [WARNING] No targets selected.
+[06:02:22] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:02:22] [WARNING] No targets selected.
+[06:02:22] [WARNING] No targets selected.
+[06:06:26] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[06:06:27] [WARNING] No targets selected.
+[06:06:27] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:06:27] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:06:27] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:06:27] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:06:27] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:06:27] [WARNING] No targets selected.
+[06:06:27] [WARNING] No targets selected.
+[06:06:29] [LOG] Effect Spike applied to target Carcará by source Fragata.
+[06:06:29] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Fragata.
+[06:06:29] [LOG] Effect Spike applied to target Corrupião by source Fragata.
+[06:06:29] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:06:29] [WARNING] No targets selected.
+[06:06:29] [WARNING] No targets selected.
+[06:07:17] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:07:17] [WARNING] No targets selected.
+[06:07:17] [WARNING] No targets selected.
+[06:07:19] [WARNING] No targets selected.
+[06:07:19] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:07:19] [WARNING] No targets selected.
+[06:07:19] [WARNING] No targets selected.
+[06:19:16] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:19:17] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:19:17] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:19:17] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:19:17] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:19:17] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:19:17] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:19:17] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:19:17] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:19:17] [WARNING] No targets selected.
+[06:19:17] [WARNING] No targets selected.
+[06:19:24] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:19:24] [WARNING] No targets selected.
+[06:19:24] [WARNING] No targets selected.
+[06:19:26] [LOG] Effect Heal applied to target Gaivotão by source Carta de Cura.
+[06:19:26] [WARNING] No targets selected.
+[06:19:26] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:19:26] [WARNING] No targets selected.
+[06:19:26] [WARNING] No targets selected.
+[06:19:55] [WARNING] No targets selected.
+[06:19:55] [WARNING] No targets selected.
+[06:19:57] [WARNING] No targets selected.
+[06:19:57] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:19:57] [WARNING] No targets selected.
+[06:19:57] [WARNING] No targets selected.
+[06:20:01] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:20:01] [WARNING] No targets selected.
+[06:20:01] [WARNING] No targets selected.
+[06:20:02] [LOG] Effect Spike applied to target Carcará by source Fragata.
+[06:20:02] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Fragata.
+[06:20:02] [LOG] Effect Spike applied to target Corrupião by source Fragata.
+[06:20:03] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:20:03] [WARNING] No targets selected.
+[06:20:03] [WARNING] No targets selected.
+[06:20:06] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:20:06] [WARNING] No targets selected.
+[06:20:06] [WARNING] No targets selected.
+[06:20:08] [WARNING] No targets selected.
+[06:20:08] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:20:08] [WARNING] No targets selected.
+[06:20:08] [WARNING] No targets selected.
+[06:20:13] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:20:13] [WARNING] No targets selected.
+[06:20:13] [WARNING] No targets selected.
+[06:20:14] [WARNING] No targets selected.
+[06:20:14] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:20:14] [WARNING] No targets selected.
+[06:20:14] [WARNING] No targets selected.
+[06:20:24] [WARNING] Owner of card Habitat Floresta is null when trying to mark card as dirty.
+[06:20:26] [LOG] Effect Armor applied to target Urubu-de-Cabeça-Vermelha by source Habitat Floresta.
+[06:20:26] [LOG] Effect Armor applied to target Maritaca-Verde by source Habitat Floresta.
+[06:20:26] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:20:26] [LOG] Effect Armor applied to target Arara-Azul by source Arara-Azul.
+[06:20:26] [LOG] Effect Armor applied to target Urubu-de-Cabeça-Vermelha by source Arara-Azul.
+[06:20:26] [LOG] Effect Armor applied to target Maritaca-Verde by source Arara-Azul.
+[06:20:26] [LOG] Effect Attack applied to target Arara-Azul by source Maritaca-Verde.
+[06:20:26] [LOG] Effect Attack applied to target Maritaca-Verde by source Maritaca-Verde.
+[06:20:26] [WARNING] No targets selected.
+[06:20:26] [WARNING] No targets selected.
+[06:20:27] [WARNING] No targets selected.
+[06:20:27] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:20:27] [LOG] Effect Armor applied to target Arara-Azul by source Arara-Azul.
+[06:20:27] [LOG] Effect Armor applied to target Urubu-de-Cabeça-Vermelha by source Arara-Azul.
+[06:20:27] [LOG] Effect Armor applied to target Maritaca-Verde by source Arara-Azul.
+[06:20:27] [WARNING] No targets selected.
+[06:20:27] [WARNING] No targets selected.
+[06:20:35] [LOG] Effect Armor applied to target Arara-Azul by source Arara-Azul.
+[06:20:35] [LOG] Effect Armor applied to target Urubu-de-Cabeça-Vermelha by source Arara-Azul.
+[06:20:35] [LOG] Effect Armor applied to target Maritaca-Verde by source Arara-Azul.
+[06:20:35] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:20:35] [WARNING] No targets selected.
+[06:20:35] [WARNING] No targets selected.
+[06:20:37] [WARNING] No targets selected.
+[06:20:37] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:20:37] [LOG] Effect Armor applied to target Arara-Azul by source Arara-Azul.
+[06:20:37] [LOG] Effect Armor applied to target Urubu-de-Cabeça-Vermelha by source Arara-Azul.
+[06:20:37] [LOG] Effect Armor applied to target Maritaca-Verde by source Arara-Azul.
+[06:20:37] [WARNING] No targets selected.
+[06:20:37] [WARNING] No targets selected.
+[06:22:58] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:22:59] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:22:59] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:22:59] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:22:59] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:22:59] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:22:59] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:22:59] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:22:59] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[06:22:59] [LOG] Effect Armor applied to target Guará by source Carcará.
+[06:22:59] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:22:59] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:22:59] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:22:59] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:07] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:07] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:07] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:23:07] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:07] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:09] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:23:09] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:23:09] [LOG] Effect Spike applied to target Carcará by source Fragata.
+[06:23:09] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[06:23:09] [LOG] Effect Spike applied to target Guará by source Fragata.
+[06:23:09] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:23:09] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:09] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:09] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:09] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:14] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:14] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:14] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:14] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:16] [WARNING] No targets selected.
+[06:23:16] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:23:16] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:16] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:16] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:23:16] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:22] [WARNING] No targets selected.
+[06:23:22] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:23:28] [LOG] Bird Gaivotão (ID: 1002) has died.
+[06:23:29] [WARNING] No targets selected.
+[06:23:29] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:29] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:23:29] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:30] [WARNING] No targets selected.
+[06:23:30] [WARNING] No targets selected.
+[06:23:30] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:30] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:37] [WARNING] No targets selected.
+[06:23:37] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:37] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:23:37] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:38] [WARNING] No targets selected.
+[06:23:38] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:23:38] [WARNING] No targets selected.
+[06:23:38] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:38] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:54] [WARNING] No targets selected.
+[06:23:54] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:54] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:23:54] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:55] [WARNING] No targets selected.
+[06:23:55] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:23:55] [WARNING] No targets selected.
+[06:23:55] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:23:55] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:24:01] [WARNING] No targets selected.
+[06:24:01] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:24:01] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:24:01] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:24:03] [WARNING] No targets selected.
+[06:24:03] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:24:03] [WARNING] No targets selected.
+[06:24:03] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:24:03] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:29:05] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:29:06] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:29:06] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:29:06] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:29:06] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:29:06] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:29:06] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:29:06] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:29:06] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:29:06] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:29:06] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:29:06] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:29:10] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:29:10] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:29:10] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:29:10] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:29:10] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:29:11] [WARNING] No targets selected.
+[06:29:11] [WARNING] No targets selected.
+[06:29:11] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:29:11] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:29:11] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:29:11] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:29:11] [LOG] Effect Attack applied to target Guará by source Guará.
+[06:40:01] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:40:02] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:40:02] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:40:02] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:40:02] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:40:02] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:40:02] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:40:02] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[06:40:02] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:40:02] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[06:40:02] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:40:02] [WARNING] No targets selected.
+[06:40:02] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:40:02] [WARNING] No targets selected.
+[06:40:04] [WARNING] No targets selected.
+[06:40:04] [WARNING] No targets selected.
+[06:40:04] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:40:04] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:40:04] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[06:40:04] [WARNING] No targets selected.
+[06:40:17] [WARNING] Owner of card Habitat Floresta is null when trying to mark card as dirty.
+[06:40:19] [LOG] Effect Armor applied to target Gavião-de-Penacho by source Habitat Floresta.
+[06:40:19] [LOG] Effect Armor applied to target Maritaca-Verde by source Habitat Floresta.
+[06:40:19] [LOG] Effect Armor applied to target Pica-Pau-Rei by source Habitat Floresta.
+[06:40:19] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:40:19] [LOG] Effect Attack applied to target Maritaca-Verde by source Maritaca-Verde.
+[06:40:19] [WARNING] No targets selected.
+[06:40:19] [WARNING] No targets selected.
+[06:40:24] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:40:24] [WARNING] No targets selected.
+[06:40:24] [WARNING] No targets selected.
+[06:40:25] [WARNING] No targets selected.
+[06:40:25] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:40:25] [WARNING] No targets selected.
+[06:40:25] [WARNING] No targets selected.
+[06:44:01] [WARNING] Owner of card Habitat Floresta is null when trying to mark card as dirty.
+[06:44:02] [WARNING] No targets selected.
+[06:44:02] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:44:02] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:44:02] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:44:02] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:44:02] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:44:02] [WARNING] No targets selected.
+[06:44:02] [WARNING] No targets selected.
+[06:44:04] [WARNING] No targets selected.
+[06:44:04] [WARNING] No targets selected.
+[06:44:04] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:44:04] [WARNING] No targets selected.
+[06:44:04] [WARNING] No targets selected.
+[06:44:07] [WARNING] No targets selected.
+[06:44:07] [WARNING] No targets selected.
+[06:44:09] [WARNING] No targets selected.
+[06:44:09] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:44:09] [WARNING] No targets selected.
+[06:44:09] [WARNING] No targets selected.
+[06:44:54] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:44:54] [WARNING] No targets selected.
+[06:44:54] [WARNING] No targets selected.
+[06:44:56] [WARNING] No targets selected.
+[06:44:56] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:44:56] [WARNING] No targets selected.
+[06:44:56] [WARNING] No targets selected.
+[06:45:03] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:45:03] [WARNING] No targets selected.
+[06:45:03] [WARNING] No targets selected.
+[06:45:04] [WARNING] No targets selected.
+[06:45:04] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:45:04] [WARNING] No targets selected.
+[06:45:04] [WARNING] No targets selected.
+[06:46:46] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[06:46:47] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[06:46:47] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Habitat Urbano.
+[06:46:47] [LOG] Effect Spike applied to target Corrupião by source Habitat Urbano.
+[06:46:47] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[06:46:47] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[06:46:47] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[06:46:47] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:46:47] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:46:47] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:46:47] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:46:47] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:46:47] [WARNING] No targets selected.
+[06:46:47] [WARNING] No targets selected.
+[06:46:49] [LOG] [AI TARGET] Bird: Fragata | bird.Group == ECardGroup.Field: False | bird.Group == ECardGroup.Field: P2 | 
+[06:46:49] [LOG] [AI TARGET] Bird: Gaivotão | bird.Group == ECardGroup.Field: False | bird.Group == ECardGroup.Field: P2 | 
+[06:46:49] [LOG] [AI TARGET] Bird: Guará | bird.Group == ECardGroup.Field: False | bird.Group == ECardGroup.Field: P2 | 
+[06:46:49] [LOG] Shuffled targets: 0
+[06:46:49] [WARNING] No targets selected.
+[06:46:49] [LOG] [AI TARGET] Bird: Carcará | bird.Group == ECardGroup.Field: True | bird.Group == ECardGroup.Field: P1 | 
+[06:46:49] [LOG] [AI TARGET] Bird: Coruja-Orelhuda | bird.Group == ECardGroup.Field: True | bird.Group == ECardGroup.Field: P1 | 
+[06:46:49] [LOG] [AI TARGET] Bird: Corrupião | bird.Group == ECardGroup.Field: True | bird.Group == ECardGroup.Field: P1 | 
+[06:46:49] [LOG] [AI TARGET] Bird: Soldadinho-do-Araripe | bird.Group == ECardGroup.Field: False | bird.Group == ECardGroup.Field: P1 | 
+[06:46:49] [LOG] Shuffled targets: 0
+[06:46:49] [WARNING] No targets selected.
+[06:46:49] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:46:49] [WARNING] No targets selected.
+[06:46:49] [WARNING] No targets selected.
+[06:46:55] [WARNING] No targets selected.
+[06:46:55] [WARNING] No targets selected.
+[06:46:57] [LOG] [AI TARGET] Bird: Carcará | bird.Group == ECardGroup.Field: True | bird.Group == ECardGroup.Field: P1 | 
+[06:46:57] [LOG] [AI TARGET] Bird: Coruja-Orelhuda | bird.Group == ECardGroup.Field: True | bird.Group == ECardGroup.Field: P1 | 
+[06:46:57] [LOG] [AI TARGET] Bird: Corrupião | bird.Group == ECardGroup.Field: True | bird.Group == ECardGroup.Field: P1 | 
+[06:46:57] [LOG] [AI TARGET] Bird: Soldadinho-do-Araripe | bird.Group == ECardGroup.Field: False | bird.Group == ECardGroup.Field: P1 | 
+[06:46:57] [LOG] Shuffled targets: 0
+[06:46:57] [WARNING] No targets selected.
+[06:46:57] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:46:57] [WARNING] No targets selected.
+[06:46:57] [WARNING] No targets selected.
+[06:49:03] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:49:04] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:49:04] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:49:04] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:49:04] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:49:04] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:49:04] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:49:04] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:49:04] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:49:04] [WARNING] No targets selected.
+[06:49:04] [WARNING] No targets selected.
+[06:49:05] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:05] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:05] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:05] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:05] [LOG] Shuffled targets: 0
+[06:49:05] [WARNING] No targets selected.
+[06:49:05] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:49:05] [WARNING] No targets selected.
+[06:49:05] [WARNING] No targets selected.
+[06:49:09] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:49:09] [WARNING] No targets selected.
+[06:49:09] [WARNING] No targets selected.
+[06:49:11] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:49:11] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:49:11] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:11] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:11] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:11] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P2 | SameTeam: False
+[06:49:11] [LOG] Shuffled targets: 0
+[06:49:11] [WARNING] No targets selected.
+[06:49:11] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:49:11] [WARNING] No targets selected.
+[06:49:11] [WARNING] No targets selected.
+[06:50:52] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:50:53] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:50:53] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:50:53] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:50:53] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:50:53] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:50:53] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:50:53] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:50:53] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:50:53] [WARNING] No targets selected.
+[06:50:53] [WARNING] No targets selected.
+[06:50:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:50:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:50:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:50:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:50:55] [LOG] Shuffled targets: 3
+[06:50:55] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:50:55] [WARNING] No targets selected.
+[06:50:55] [WARNING] No targets selected.
+[06:50:58] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:50:58] [WARNING] No targets selected.
+[06:50:58] [WARNING] No targets selected.
+[06:51:00] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:00] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:00] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:00] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:00] [LOG] Shuffled targets: 3
+[06:51:01] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:51:01] [WARNING] No targets selected.
+[06:51:01] [WARNING] No targets selected.
+[06:51:42] [LOG] Effect Attack applied to target Gaivotão by source Corrupião.
+[06:51:42] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:51:42] [WARNING] No targets selected.
+[06:51:42] [WARNING] No targets selected.
+[06:51:44] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[06:51:44] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[06:51:44] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[06:51:44] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[06:51:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:44] [LOG] Shuffled targets: 3
+[06:51:45] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:51:45] [WARNING] No targets selected.
+[06:51:45] [WARNING] No targets selected.
+[06:51:48] [WARNING] No targets selected.
+[06:51:48] [WARNING] No targets selected.
+[06:51:49] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:49] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:49] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:49] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:49] [LOG] Shuffled targets: 3
+[06:51:50] [LOG] Bird Corrupião (ID: 1011) has died.
+[06:51:50] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:51:50] [WARNING] No targets selected.
+[06:51:50] [WARNING] No targets selected.
+[06:51:53] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:51:53] [WARNING] No targets selected.
+[06:51:53] [WARNING] No targets selected.
+[06:51:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:55] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:51:55] [LOG] Shuffled targets: 2
+[06:51:56] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:51:56] [WARNING] No targets selected.
+[06:51:56] [WARNING] No targets selected.
+[06:52:00] [LOG] Bird Fragata (ID: 1001) has died.
+[06:52:01] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:52:01] [WARNING] No targets selected.
+[06:52:01] [WARNING] No targets selected.
+[06:52:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:02] [LOG] Shuffled targets: 2
+[06:52:03] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:52:03] [WARNING] No targets selected.
+[06:52:03] [WARNING] No targets selected.
+[06:52:07] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:52:07] [WARNING] No targets selected.
+[06:52:07] [WARNING] No targets selected.
+[06:52:09] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:09] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:09] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:09] [LOG] Shuffled targets: 2
+[06:52:10] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:52:10] [WARNING] No targets selected.
+[06:52:10] [WARNING] No targets selected.
+[06:52:14] [LOG] Hand card action was cancelled.
+[06:52:22] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:52:22] [WARNING] No targets selected.
+[06:52:22] [WARNING] No targets selected.
+[06:52:23] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:23] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:23] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:23] [LOG] Shuffled targets: 2
+[06:52:24] [WARNING] No targets selected.
+[06:52:24] [WARNING] No targets selected.
+[06:52:26] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:52:26] [WARNING] No targets selected.
+[06:52:26] [WARNING] No targets selected.
+[06:52:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:28] [LOG] Shuffled targets: 2
+[06:52:29] [WARNING] No targets selected.
+[06:52:29] [WARNING] No targets selected.
+[06:52:31] [LOG] Bird Gaivotão (ID: 1002) has died.
+[06:52:31] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:52:31] [WARNING] No targets selected.
+[06:52:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:33] [LOG] Shuffled targets: 2
+[06:52:40] [WARNING] Owner of card Habitat Deserto is null when trying to mark card as dirty.
+[06:52:41] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
+[06:52:41] [LOG] Effect Cost applied to target Gaivotão by source Habitat Deserto.
+[06:52:41] [LOG] Effect Cost applied to target Guará by source Habitat Deserto.
+[06:52:41] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[06:52:41] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[06:52:41] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[06:52:41] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[06:52:41] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[06:52:41] [WARNING] No targets selected.
+[06:52:41] [WARNING] No targets selected.
+[06:52:42] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:42] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:42] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:52:42] [LOG] Shuffled targets: 3
+[06:52:43] [LOG] Effect Block applied to target Corrupião by source Carta de Bloqueio.
+[06:52:43] [WARNING] Invalid action: Not enough action points to perform the action.
+[06:52:43] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:52:43] [WARNING] No targets selected.
+[06:52:43] [WARNING] No targets selected.
+[06:52:47] [WARNING] No targets selected.
+[06:52:47] [WARNING] No targets selected.
+[06:52:48] [WARNING] Invalid action: Not enough action points to perform the action.
+[06:52:48] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:52:48] [WARNING] No targets selected.
+[06:52:48] [WARNING] No targets selected.
+[06:52:53] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:52:53] [WARNING] No targets selected.
+[06:52:53] [WARNING] No targets selected.
+[06:52:54] [WARNING] Invalid action: Not enough action points to perform the action.
+[06:52:54] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:52:54] [WARNING] No targets selected.
+[06:52:54] [WARNING] No targets selected.
+[06:53:00] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:00] [WARNING] No targets selected.
+[06:53:00] [WARNING] No targets selected.
+[06:53:02] [WARNING] Invalid action: Not enough action points to perform the action.
+[06:53:02] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:53:02] [WARNING] No targets selected.
+[06:53:02] [WARNING] No targets selected.
+[06:53:05] [LOG] Bird Gaivotão (ID: 1002) has died.
+[06:53:05] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:05] [WARNING] No targets selected.
+[06:53:07] [WARNING] Invalid action: Not enough action points to perform the action.
+[06:53:07] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:53:07] [WARNING] No targets selected.
+[06:53:12] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:12] [WARNING] No targets selected.
+[06:53:13] [WARNING] Invalid action: Not enough action points to perform the action.
+[06:53:13] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:53:13] [WARNING] No targets selected.
+[06:53:15] [WARNING] No targets selected.
+[06:53:15] [WARNING] Owner of card Habitat Deserto is null when trying to mark card as dirty.
+[06:53:20] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:20] [WARNING] No targets selected.
+[06:53:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:21] [LOG] Shuffled targets: 3
+[06:53:22] [WARNING] No targets selected.
+[06:53:26] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:26] [WARNING] No targets selected.
+[06:53:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:27] [LOG] Shuffled targets: 3
+[06:53:28] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:53:28] [WARNING] No targets selected.
+[06:53:32] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:32] [WARNING] No targets selected.
+[06:53:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:33] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:33] [LOG] Shuffled targets: 3
+[06:53:34] [LOG] Bird Carcará (ID: 1009) has died.
+[06:53:34] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[06:53:34] [WARNING] No targets selected.
+[06:53:39] [LOG] Bird Fragata (ID: 1001) has died.
+[06:53:39] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[06:53:39] [WARNING] No targets selected.
+[06:53:41] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:41] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:41] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[06:53:41] [LOG] Shuffled targets: 2
+[20:41:16] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[20:41:17] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[20:41:17] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[20:41:17] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Habitat Urbano.
+[20:41:17] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[20:41:17] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[20:41:17] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[20:41:17] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[20:41:17] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[20:41:17] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[20:41:17] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[20:41:17] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[20:41:17] [WARNING] No targets selected.
+[20:41:17] [WARNING] No targets selected.
+[20:41:19] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[20:41:19] [LOG] Effect Spike applied to target Carcará by source Fragata.
+[20:41:19] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Fragata.
+[20:41:19] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[20:41:19] [WARNING] No targets selected.
+[20:41:19] [WARNING] No targets selected.
+[20:43:52] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[20:43:53] [WARNING] No targets selected.
+[20:43:53] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[20:43:53] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[20:43:53] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[20:43:53] [LOG] Effect Armor applied to target Soldadinho-do-Araripe by source Carcará.
+[20:43:53] [WARNING] No targets selected.
+[20:43:53] [WARNING] No targets selected.
+[20:43:53] [WARNING] No targets selected.
+[21:12:48] [WARNING] Owner of card Habitat Deserto is null when trying to mark card as dirty.
+[21:12:49] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
+[21:12:49] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
+[21:12:49] [LOG] Effect Cost applied to target Gaivotão by source Habitat Deserto.
+[21:12:49] [LOG] Effect Cost applied to target Guará by source Habitat Deserto.
+[21:12:49] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[21:12:49] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[21:12:49] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[21:12:49] [LOG] Effect Armor applied to target Soldadinho-do-Araripe by source Carcará.
+[21:12:49] [WARNING] No targets selected.
+[21:12:49] [WARNING] No targets selected.
+[21:12:50] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:12:50] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:12:50] [WARNING] Invalid action: Not enough action points to perform the action.
+[21:12:50] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:12:50] [WARNING] No targets selected.
+[21:12:50] [WARNING] No targets selected.
+[21:16:30] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[21:16:31] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[21:16:31] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Habitat Urbano.
+[21:16:31] [LOG] Effect Spike applied to target Corrupião by source Habitat Urbano.
+[21:16:31] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[21:16:31] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[21:16:31] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[21:16:31] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[21:16:31] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[21:16:31] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[21:16:31] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[21:16:31] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[21:16:31] [WARNING] No targets selected.
+[21:16:31] [WARNING] No targets selected.
+[21:17:33] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:17:33] [WARNING] No targets selected.
+[21:17:33] [WARNING] No targets selected.
+[21:17:35] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
+[21:17:35] [LOG] Effect Cost applied to target Gaivotão by source Habitat Deserto.
+[21:17:35] [LOG] Effect Cost applied to target Guará by source Habitat Deserto.
+[21:17:35] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[21:17:35] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:17:35] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:17:35] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:17:35] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:17:36] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:17:36] [WARNING] No targets selected.
+[21:17:36] [WARNING] No targets selected.
+[21:18:25] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[21:18:27] [WARNING] No targets selected.
+[21:18:27] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[21:18:27] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[21:18:27] [LOG] Effect Armor applied to target Gavião-de-Penacho by source Carcará.
+[21:18:27] [LOG] Effect Armor applied to target Maritaca-Verde by source Carcará.
+[21:18:27] [LOG] Effect Attack applied to target Maritaca-Verde by source Maritaca-Verde.
+[21:18:27] [WARNING] No targets selected.
+[21:18:27] [WARNING] No targets selected.
+[21:18:38] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:18:38] [WARNING] No targets selected.
+[21:18:38] [WARNING] No targets selected.
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[21:18:40] [WARNING] No targets selected.
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:40] [LOG] Effect Block applied to target Maritaca-Verde by source Carta de Bloqueio.
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:41] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:18:41] [WARNING] No targets selected.
+[21:18:41] [WARNING] No targets selected.
+[21:18:46] [WARNING] No targets selected.
+[21:18:46] [WARNING] No targets selected.
+[21:18:47] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:47] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:47] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:47] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:18:48] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:18:48] [WARNING] No targets selected.
+[21:18:48] [WARNING] No targets selected.
+[21:18:52] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[21:18:52] [LOG] Effect Spike applied to target Gavião-de-Penacho by source Habitat Urbano.
+[21:18:52] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[21:18:52] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[21:18:52] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[21:18:52] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[21:19:02] [LOG] Effect Heal applied to target Gavião-de-Penacho by source Carta de Cura.
+[21:19:03] [WARNING] No targets selected.
+[21:19:03] [WARNING] No targets selected.
+[21:19:04] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:04] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:04] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:04] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:05] [LOG] Bird Gavião-de-Penacho (ID: 1013) has died.
+[21:19:05] [WARNING] No targets selected.
+[21:19:05] [WARNING] No targets selected.
+[21:19:09] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:19:09] [WARNING] No targets selected.
+[21:19:09] [WARNING] No targets selected.
+[21:19:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:11] [WARNING] No targets selected.
+[21:19:11] [WARNING] No targets selected.
+[21:19:14] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:19:14] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:19:14] [WARNING] No targets selected.
+[21:19:14] [WARNING] No targets selected.
+[21:19:15] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:15] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:15] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:16] [WARNING] No targets selected.
+[21:19:16] [WARNING] No targets selected.
+[21:19:18] [LOG] Effect Attack applied to target Pica-Pau-Rei by source Pica-Pau-Rei.
+[21:19:21] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:19:21] [WARNING] No targets selected.
+[21:19:21] [WARNING] No targets selected.
+[21:19:22] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:22] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:22] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:23] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:19:23] [WARNING] No targets selected.
+[21:19:23] [WARNING] No targets selected.
+[21:19:32] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[21:19:33] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[21:19:33] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[21:19:33] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[21:19:33] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[21:19:33] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[21:19:33] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[21:19:33] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[21:19:33] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:33] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:33] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:33] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:36] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[21:19:36] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[21:19:36] [LOG] Effect Spike applied to target Guará by source Fragata.
+[21:19:36] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:36] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:36] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:19:36] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:36] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[21:19:38] [WARNING] No targets selected.
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:38] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:19:38] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:19:38] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:38] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:38] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:38] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:56] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:56] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:56] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:56] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:58] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[21:19:58] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[21:19:58] [LOG] Effect Spike applied to target Guará by source Fragata.
+[21:19:58] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:19:58] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:58] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:19:58] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:19:58] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:01] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:20:01] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:01] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:01] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[21:20:01] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:03] [LOG] Bird Gaivotão (ID: 1006) has died.
+[21:20:04] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:04] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:04] [WARNING] No targets selected.
+[21:20:04] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:08] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:08] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:08] [WARNING] No targets selected.
+[21:20:08] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:09] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:09] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:09] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:10] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:10] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:10] [WARNING] No targets selected.
+[21:20:10] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:13] [LOG] Bird Fragata (ID: 1001) has died.
+[21:20:14] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:14] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:14] [WARNING] No targets selected.
+[21:20:14] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:15] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:15] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:15] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:16] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:16] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:16] [WARNING] No targets selected.
+[21:20:16] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:20] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:20] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:20] [WARNING] No targets selected.
+[21:20:20] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:22] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:22] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:22] [WARNING] No targets selected.
+[21:20:22] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:29] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:29] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:29] [WARNING] No targets selected.
+[21:20:29] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:31] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:31] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:31] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:32] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:32] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:32] [WARNING] No targets selected.
+[21:20:32] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:36] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:36] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:36] [WARNING] No targets selected.
+[21:20:36] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:37] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:37] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:37] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:38] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:38] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:38] [WARNING] No targets selected.
+[21:20:38] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:42] [LOG] Bird Gaivotão (ID: 1002) has died.
+[21:20:42] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:42] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:20:42] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:45] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:20:45] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:45] [LOG] Effect Attack applied to target Guará by source Guará.
+[21:20:56] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[21:20:57] [WARNING] No targets selected.
+[21:20:57] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[21:20:57] [WARNING] No targets selected.
+[21:20:57] [WARNING] No targets selected.
+[21:20:57] [WARNING] No targets selected.
+[21:20:57] [WARNING] No targets selected.
+[21:20:59] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:59] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:59] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:20:59] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:00] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:00] [WARNING] No targets selected.
+[21:21:00] [WARNING] No targets selected.
+[21:21:00] [WARNING] No targets selected.
+[21:21:00] [WARNING] No targets selected.
+[21:21:01] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[21:21:01] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[21:21:01] [LOG] Effect Spike applied to target Guará by source Fragata.
+[21:21:02] [WARNING] No targets selected.
+[21:21:02] [WARNING] No targets selected.
+[21:21:02] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:02] [WARNING] No targets selected.
+[21:21:02] [WARNING] No targets selected.
+[21:21:03] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[21:21:03] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[21:21:03] [LOG] Effect Spike applied to target Martim-Pescador-Grande by source Fragata.
+[21:21:03] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:03] [WARNING] No targets selected.
+[21:21:03] [WARNING] No targets selected.
+[21:21:03] [WARNING] No targets selected.
+[21:21:03] [WARNING] No targets selected.
+[21:21:08] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[21:21:08] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[21:21:08] [LOG] Effect Spike applied to target Guará by source Fragata.
+[21:21:08] [WARNING] No targets selected.
+[21:21:08] [WARNING] No targets selected.
+[21:21:08] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:08] [WARNING] No targets selected.
+[21:21:08] [WARNING] No targets selected.
+[21:21:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:10] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:10] [LOG] Bird Fragata (ID: 1005) has died.
+[21:21:11] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:11] [WARNING] No targets selected.
+[21:21:11] [WARNING] No targets selected.
+[21:21:11] [WARNING] No targets selected.
+[21:21:11] [WARNING] No targets selected.
+[21:21:14] [WARNING] No targets selected.
+[21:21:14] [WARNING] No targets selected.
+[21:21:14] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:14] [WARNING] No targets selected.
+[21:21:14] [WARNING] No targets selected.
+[21:21:16] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:16] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:16] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:16] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:16] [WARNING] No targets selected.
+[21:21:16] [WARNING] No targets selected.
+[21:21:16] [WARNING] No targets selected.
+[21:21:16] [WARNING] No targets selected.
+[21:21:20] [LOG] Bird Fragata (ID: 1001) has died.
+[21:21:20] [WARNING] No targets selected.
+[21:21:20] [WARNING] No targets selected.
+[21:21:20] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:20] [WARNING] No targets selected.
+[21:21:20] [WARNING] No targets selected.
+[21:21:22] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:22] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:22] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:22] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:22] [WARNING] No targets selected.
+[21:21:22] [WARNING] No targets selected.
+[21:21:22] [WARNING] No targets selected.
+[21:21:22] [WARNING] No targets selected.
+[21:21:25] [WARNING] No targets selected.
+[21:21:25] [WARNING] No targets selected.
+[21:21:25] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:25] [WARNING] No targets selected.
+[21:21:25] [WARNING] No targets selected.
+[21:21:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:27] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:27] [WARNING] No targets selected.
+[21:21:27] [WARNING] No targets selected.
+[21:21:27] [WARNING] No targets selected.
+[21:21:27] [WARNING] No targets selected.
+[21:21:30] [WARNING] No targets selected.
+[21:21:30] [WARNING] No targets selected.
+[21:21:30] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:30] [WARNING] No targets selected.
+[21:21:30] [WARNING] No targets selected.
+[21:21:32] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:32] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:32] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:33] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:33] [WARNING] No targets selected.
+[21:21:33] [WARNING] No targets selected.
+[21:21:33] [WARNING] No targets selected.
+[21:21:33] [WARNING] No targets selected.
+[21:21:34] [LOG] Bird Guará (ID: 1003) has died.
+[21:21:35] [WARNING] No targets selected.
+[21:21:35] [WARNING] No targets selected.
+[21:21:35] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:35] [WARNING] No targets selected.
+[21:21:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:37] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[21:21:37] [WARNING] No targets selected.
+[21:21:37] [WARNING] No targets selected.
+[21:21:37] [WARNING] No targets selected.
+[21:21:38] [LOG] Effect Heal applied to target Martim-Pescador-Grande by source Habitat Pântano.
+[21:21:38] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[21:21:38] [WARNING] No targets selected.
+[21:21:38] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[21:21:38] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:38] [WARNING] No targets selected.
+[21:21:39] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:39] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:39] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:40] [WARNING] No targets selected.
+[21:21:40] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[21:21:40] [WARNING] No targets selected.
+[21:21:42] [WARNING] No targets selected.
+[21:21:42] [LOG] Effect Attack applied to target Martim-Pescador-Grande by source Martim-Pescador-Grande.
+[21:21:42] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[21:21:42] [WARNING] No targets selected.
+[21:21:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[21:21:44] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:00:19] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[00:00:20] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[00:00:20] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Habitat Urbano.
+[00:00:20] [LOG] Effect Spike applied to target Soldadinho-do-Araripe by source Habitat Urbano.
+[00:00:20] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[00:00:20] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[00:00:20] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[00:00:20] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[00:00:20] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[00:00:20] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[00:00:20] [LOG] Effect Armor applied to target Soldadinho-do-Araripe by source Carcará.
+[00:00:20] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[00:00:20] [WARNING] No targets selected.
+[00:00:20] [WARNING] No targets selected.
+[00:00:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:00:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:00:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:00:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:00:22] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[00:00:22] [WARNING] No targets selected.
+[00:00:22] [WARNING] No targets selected.
+[00:02:53] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[00:02:54] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[00:02:54] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[00:02:54] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[00:02:54] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[00:02:54] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[00:02:54] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[00:02:54] [LOG] Effect Armor applied to target Pica-Pau-Rei by source Carcará.
+[00:02:54] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[00:02:54] [WARNING] No targets selected.
+[00:02:54] [WARNING] No targets selected.
+[00:02:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:02:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:02:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:02:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:02:57] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[00:02:57] [WARNING] No targets selected.
+[00:02:57] [WARNING] No targets selected.
+[00:04:22] [WARNING] Owner of card Habitat Pântano is null when trying to mark card as dirty.
+[00:04:24] [WARNING] No targets selected.
+[00:04:24] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[00:04:24] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[00:04:24] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[00:04:24] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[00:04:24] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[00:04:24] [WARNING] No targets selected.
+[00:04:24] [WARNING] No targets selected.
+[00:04:24] [WARNING] No targets selected.
+[00:06:18] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[00:06:20] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[00:06:20] [LOG] Effect Spike applied to target Coruja-Orelhuda by source Habitat Urbano.
+[00:06:20] [LOG] Effect Spike applied to target Corrupião by source Habitat Urbano.
+[00:06:20] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[00:06:20] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[00:06:20] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[00:06:20] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[00:06:20] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[00:06:20] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[00:06:20] [LOG] Effect Armor applied to target Corrupião by source Carcará.
+[00:06:20] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[00:06:20] [WARNING] No targets selected.
+[00:06:20] [WARNING] No targets selected.
+[00:06:20] [WARNING] No targets selected.
+[00:08:02] [WARNING] No targets selected.
+[00:08:02] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[00:08:02] [WARNING] No targets selected.
+[00:08:02] [WARNING] No targets selected.
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[00:08:03] [WARNING] No targets selected.
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:08:03] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[00:08:04] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[00:08:04] [WARNING] No targets selected.
+[00:08:04] [WARNING] No targets selected.
+[00:08:04] [WARNING] No targets selected.
+[02:21:52] [WARNING] Owner of card Habitat Floresta is null when trying to mark card as dirty.
+[02:21:53] [WARNING] No targets selected.
+[02:21:53] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:21:53] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[02:21:53] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[02:21:53] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[02:21:53] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[02:21:53] [WARNING] No targets selected.
+[02:21:53] [WARNING] No targets selected.
+[02:21:53] [WARNING] No targets selected.
+[02:22:01] [LOG] Hand card action was cancelled.
+[02:22:02] [LOG] Hand card action was cancelled.
+[02:22:03] [LOG] Hand card action was cancelled.
+[02:23:17] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[02:23:19] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[02:23:19] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[02:23:19] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[02:23:19] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[02:23:19] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[02:23:19] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:23:19] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[02:23:19] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[02:23:19] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[02:23:19] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[02:23:19] [WARNING] No targets selected.
+[02:23:19] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[02:23:19] [WARNING] No targets selected.
+[02:23:20] [LOG] Effect Spike applied to target Carcará by source Fragata.
+[02:23:20] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[02:23:20] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[02:23:21] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:23:21] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[02:23:21] [WARNING] No targets selected.
+[02:23:21] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[02:23:21] [WARNING] No targets selected.
+[02:38:26] [WARNING] Owner of card Habitat Floresta is null when trying to mark card as dirty.
+[02:38:27] [WARNING] No targets selected.
+[02:38:27] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:38:27] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[02:38:27] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[02:38:27] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[02:38:27] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[02:38:27] [WARNING] No targets selected.
+[02:38:27] [WARNING] No targets selected.
+[02:38:27] [WARNING] No targets selected.
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[02:38:28] [WARNING] No targets selected.
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:38:28] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:38:29] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:38:29] [WARNING] No targets selected.
+[02:38:29] [WARNING] No targets selected.
+[02:38:29] [WARNING] No targets selected.
+[02:42:18] [WARNING] Owner of card Habitat Floresta is null when trying to mark card as dirty.
+[02:42:19] [WARNING] No targets selected.
+[02:42:19] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:42:19] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[02:42:19] [WARNING] No targets selected.
+[02:42:19] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[02:42:19] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[02:42:19] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[02:42:19] [WARNING] No targets selected.
+[02:42:19] [WARNING] No targets selected.
+[02:42:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:42:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:42:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:42:21] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:42:21] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:42:21] [WARNING] No targets selected.
+[02:42:21] [WARNING] No targets selected.
+[02:42:21] [WARNING] No targets selected.
+[02:43:02] [WARNING] Owner of card Habitat Urbano is null when trying to mark card as dirty.
+[02:43:03] [LOG] Effect Spike applied to target Carcará by source Habitat Urbano.
+[02:43:03] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[02:43:03] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[02:43:03] [LOG] Effect Spike applied to target Fragata by source Habitat Urbano.
+[02:43:03] [LOG] Effect Spike applied to target Gaivotão by source Habitat Urbano.
+[02:43:03] [LOG] Effect Spike applied to target Guará by source Habitat Urbano.
+[02:43:03] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:43:03] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[02:43:03] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[02:43:03] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[02:43:03] [WARNING] No targets selected.
+[02:43:03] [WARNING] No targets selected.
+[02:43:03] [WARNING] No targets selected.
+[02:43:03] [WARNING] No targets selected.
+[02:43:14] [LOG] Hand card action was cancelled.
+[02:46:53] [WARNING] Owner of card Habitat Pântano is null when trying to mark card as dirty.
+[02:46:54] [WARNING] No targets selected.
+[02:46:54] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[02:46:54] [WARNING] No targets selected.
+[02:46:54] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[02:46:54] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[02:46:54] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[02:46:54] [WARNING] No targets selected.
+[02:46:54] [WARNING] No targets selected.
+[02:46:54] [WARNING] No targets selected.
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[02:46:56] [WARNING] No targets selected.
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:46:56] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[02:46:57] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[02:46:57] [WARNING] No targets selected.
+[02:46:57] [WARNING] No targets selected.
+[02:46:57] [WARNING] No targets selected.
+[03:02:17] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[03:02:19] [WARNING] No targets selected.
+[03:02:19] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[03:02:19] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[03:02:19] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[03:02:19] [LOG] Effect Armor applied to target Fragata by source Carcará.
+[03:02:19] [WARNING] No targets selected.
+[03:02:19] [WARNING] No targets selected.
+[03:02:19] [WARNING] No targets selected.
+[03:02:19] [WARNING] No targets selected.
+[03:02:52] [LOG] Effect Spike applied to target Fragata by source Fragata.
+[03:02:52] [LOG] Effect Spike applied to target Gaivotão by source Fragata.
+[03:02:52] [LOG] Effect Spike applied to target Guará by source Fragata.
+[03:02:53] [WARNING] No targets selected.
+[03:02:53] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[03:02:53] [WARNING] No targets selected.
+[03:02:53] [WARNING] No targets selected.
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[03:02:54] [WARNING] No targets selected.
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:02:54] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:02:55] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[03:02:55] [WARNING] No targets selected.
+[03:02:55] [WARNING] No targets selected.
+[03:02:55] [WARNING] No targets selected.
+[03:03:00] [WARNING] No targets selected.
+[03:03:00] [WARNING] No targets selected.
+[03:03:00] [WARNING] No targets selected.
+[03:03:02] [LOG] Effect Cost applied to target Gaivotão by source Habitat Deserto.
+[03:03:02] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
+[03:03:02] [LOG] Effect Cost applied to target Fragata by source Habitat Deserto.
+[03:03:02] [LOG] Effect Cost applied to target Gaivotão by source Habitat Deserto.
+[03:03:02] [LOG] Effect Cost applied to target Guará by source Habitat Deserto.
+[03:03:02] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[03:03:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:02] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:03] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[03:03:03] [WARNING] No targets selected.
+[03:03:03] [WARNING] No targets selected.
+[03:03:03] [WARNING] No targets selected.
+[03:03:22] [WARNING] No targets selected.
+[03:03:22] [WARNING] No targets selected.
+[03:03:22] [WARNING] No targets selected.
+[03:03:24] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:24] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:24] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:24] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:03:24] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[03:03:24] [WARNING] No targets selected.
+[03:03:24] [WARNING] No targets selected.
+[03:03:24] [WARNING] No targets selected.
+[03:04:45] [WARNING] Owner of card Habitat Litorâneo is null when trying to mark card as dirty.
+[03:04:46] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[03:04:46] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[03:04:46] [LOG] Effect Attack applied to target Quero-Quero by source Habitat Litorâneo.
+[03:04:46] [LOG] Effect Attack applied to target Fragata by source Habitat Litorâneo.
+[03:04:46] [LOG] Effect Attack applied to target Gaivotão by source Habitat Litorâneo.
+[03:04:46] [LOG] Effect Attack applied to target Guará by source Habitat Litorâneo.
+[03:04:46] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[03:04:46] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[03:04:46] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[03:04:46] [WARNING] No targets selected.
+[03:04:48] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[03:04:48] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[03:04:48] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:04:48] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:04:48] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:04:48] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[03:04:49] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[03:04:49] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[03:04:49] [LOG] Effect Armor applied to target Gaivotão by source Gaivotão.
+[03:04:49] [WARNING] No targets selected.
+[18:29:24] [WARNING] Owner of card Habitat Savanna is null when trying to mark card as dirty.
+[18:29:25] [WARNING] No targets selected.
+[18:29:25] [LOG] BattlePlayerInputController: Habitat change requested is the same as the current habitat. Ignoring.
+[18:29:25] [LOG] Effect Armor applied to target Carcará by source Carcará.
+[18:29:25] [LOG] Effect Armor applied to target Coruja-Orelhuda by source Carcará.
+[18:29:25] [LOG] Effect Armor applied to target Gaivotão by source Carcará.
+[18:29:25] [LOG] Effect Attack applied to target Coruja-Orelhuda by source Coruja-Orelhuda.
+[18:29:25] [WARNING] No targets selected.
+[18:29:25] [WARNING] No targets selected.
+[18:29:25] [WARNING] No targets selected.
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Target | IsField: False | BirdTeam: P2 | PlayerTeam: P1 | SameTeam: False
+[18:29:27] [WARNING] No targets selected.
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:29:27] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:29:28] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[18:29:28] [WARNING] No targets selected.
+[18:29:28] [WARNING] No targets selected.
+[18:29:28] [WARNING] No targets selected.
+[18:32:34] [WARNING] No targets selected.
+[18:32:34] [WARNING] No targets selected.
+[18:32:34] [WARNING] No targets selected.
+[18:32:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:36] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:36] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[18:32:36] [WARNING] No targets selected.
+[18:32:36] [WARNING] No targets selected.
+[18:32:36] [WARNING] No targets selected.
+[18:32:39] [WARNING] No targets selected.
+[18:32:39] [WARNING] Could not buy card for player P2. Hand may be full or shop is empty.
+[18:32:39] [WARNING] No targets selected.
+[18:32:39] [WARNING] No targets selected.
+[18:32:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Field | IsField: True | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:40] [LOG] [AI TARGET] Bird: BirdBattleCard | Group: Reserve | IsField: False | BirdTeam: P1 | PlayerTeam: P1 | SameTeam: True
+[18:32:41] [WARNING] Could not buy card for player P1. Hand may be full or shop is empty.
+[18:32:41] [WARNING] No targets selected.
+[18:32:41] [WARNING] No targets selected.
+[18:32:41] [WARNING] No targets selected.
